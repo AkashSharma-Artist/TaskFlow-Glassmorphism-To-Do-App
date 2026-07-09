@@ -1,6 +1,6 @@
 # TaskFlow – Glassmorphism To-Do App
 
-![](https://github.com/AkashSharma-Artist/FitClub-Gym-Fitness-Landing-Page/blob/main/ChatGPT%20Image%20Jul%209%2C%202026%2C%2005_46_27%20PM.png)
+![](https://github.com/AkashSharma-Artist/TaskFlow-Glassmorphism-To-Do-App/blob/main/ChatGPT%20Image%20Jul%2010%2C%202026%2C%2012_52_24%20AM.png)
 
 TaskFlow is a fully functional, single-page To-Do application built with 
 HTML5, CSS3, and vanilla JavaScript. It features a modern glassmorphism 
@@ -25,7 +25,6 @@ a fun confetti celebration when all tasks are completed.
 - tsParticles Confetti (celebration effect)
 - Google Fonts (Jost)
 
-![](https://github.com/AkashSharma-Artist/FitClub-Gym-Fitness-Landing-Page/blob/main/ChatGPT%20Image%20Jul%209%2C%202026%2C%2005_46_27%20PM.png)
-![](https://github.com/AkashSharma-Artist/FitClub-Gym-Fitness-Landing-Page/blob/main/ChatGPT%20Image%20Jul%209%2C%202026%2C%2005_46_27%20PM.png)
-![](https://github.com/AkashSharma-Artist/FitClub-Gym-Fitness-Landing-Page/blob/main/ChatGPT%20Image%20Jul%209%2C%202026%2C%2005_46_27%20PM.png)
+![](https://github.com/AkashSharma-Artist/TaskFlow-Glassmorphism-To-Do-App/blob/main/Screenshot%202026-07-10%20001830.png)
+![](https://github.com/AkashSharma-Artist/TaskFlow-Glassmorphism-To-Do-App/blob/main/Screenshot%202026-07-10%20001851.png)
 
