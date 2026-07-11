@@ -12,7 +12,7 @@ body{
    justify-content: center;
    align-items: center;
    min-height: 100vh;
-   background: url(/images/bg2.jpg)
+   background: url(images/bg2.jpg)
    no-repeat center center/cover;
 
    /* Centers your whole app both vertically and horizontally
